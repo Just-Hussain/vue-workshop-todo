@@ -1,0 +1,42 @@
+Overview:
+
+- Why Use a Framework ?
+- Why Use Vue ?
+- Creating a Vue Project.
+  - Using vue-cli and\or its UI.
+  - Understanding Node.js.
+  - Understanding the project structure.
+- Basics of Vue.
+  - index.html
+  - main.js
+  - App.vue
+  - template, script, and style.
+  - The component's exported object attributes.
+  - The moustache syntax {{  }}.
+  - Basic directives: v-for, v-if, v-bind (:), v-on (@), v-model
+  - Binding styles and classes
+- Single File Components (SFCs).
+  - Naming conventions.
+  - Exporting, importing & registering.
+  - Props.
+  - Firing events.
+- Vue Router.
+  - What is a Single Page Application (SPA) ?
+  - What is Vue Router ?
+  - Adding it using the vue-cli/ui.
+  - Understanding its structure.
+  - router-link, router-view.
+  - Passing params and queries.
+  - Params as props.
+- Build & Deploy.
+  - Pushing to Github.
+  - Deploying on Netlify.
+
+Maybe ?
+- Vuex.
+  - What is State Management ?
+  - What is Vuex ?
+  - Understanding Vuex's store structure.
+  - state, mutations, getters and actions.
+  - Mappers.
+  - Maybe modules ?
